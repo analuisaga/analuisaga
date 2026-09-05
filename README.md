@@ -8,8 +8,7 @@ Ingeniera en Software con experiencia en educación superior y formación especi
 en tecnologías informáticas, ingeniería de software y tecnología educativa.
 
 Actualmente me desempeño como **Asistente de Laboratorio de Cómputo en la
-Universidad Técnica Nacional (UTN)** y cuento con experiencia como **Profesora 3
-de la Carrera de Ingeniería de Software**.
+Universidad Técnica Nacional (UTN)** y cuento con experiencia como **Profesora tutora de TFG en la Carrera de Ingeniería de Informática**.
 
 Mi formación combina el área tecnológica con la educación, la investigación y
 la producción de recursos didácticos.
